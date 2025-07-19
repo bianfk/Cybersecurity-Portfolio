@@ -13,7 +13,7 @@ be spoofed. Ping uses ICMP (Internet Control Message Protocol) packets to determ
 devices, and if that connection exists.
 
 ## Lab completed: How to ping?
-![How to ping](Screenshots/pinging1.png)
+![How to ping](TryHackMe/assets/pinging1.png)
 
 Pinging 8.8.8.8 informs us that we have sent 4 packets, all of which were received at an average of 9.428 seconds.
 ### Why does this matter to SOC analysts?
