@@ -1,5 +1,4 @@
-# Pre Security: Network Fundamental
-## Room completed: What is a network?
+## Room completed: What is networking?
 
 Date: 7/16/25
 
