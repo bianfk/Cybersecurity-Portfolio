@@ -11,4 +11,6 @@
 - Helps identify abnormal traffic, spoofed addresses, and connectivity issues.
 
 ### 🧪 Lab Screenshot
-![Ping Example](../../assets/pinging1.png)
+![Ping Example](../../assets/pinging1.png)  
+🔍 **Observation:**  
+Pinging `8.8.8.8` resulted in 4 packets sent and received, with an average response time of 9.428 ms.
