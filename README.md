@@ -4,11 +4,11 @@ Welcome to my Cybersecurity Portfolio! This repository documents my journey into
 
 ## 📌 What's Inside
 
-- 🧠 **Security+ Study Notes** – Key concepts from the CompTIA Security+ certification (Sybex Study Guide)
-- 🧪 **TryHackMe Labs** – Hands-on learning from Pre-Security and Blue Team paths
+- 🧠 **[Security+ Study Notes](/Security+)** – Key concepts from the CompTIA Security+ certification (Sybex Study Guide)
+- 🧪 **[TryHackMe Labs](/TryHackMe)** – Hands-on learning from Pre-Security and Blue Team paths
 - 🏠 **Home Labs** – Projects and virtual environments built to simulate real-world security scenarios
 - 🧾 **Threat Research** – Malware, phishing, and attack technique analysis
-- 🔐 **Certifications** – My progress and reflections on cybersecurity certifications
+- 🔐 **[Certifications](https://github.com/bianfk/bianfk?tab=readme-ov-file#certifications)** – My progress and reflections on cybersecurity certifications
 
 ## 🎯 Goals
 
