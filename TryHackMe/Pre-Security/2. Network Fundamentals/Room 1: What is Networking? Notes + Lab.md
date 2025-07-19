@@ -12,3 +12,10 @@ IPv6 (340 trillion plus). MAC address is unique to each device and looks to some
 six characters represent the network interface manufacturer, and the last six represent its unique address. MAC addresses can 
 be spoofed. Ping uses ICMP (Internet Control Message Protocol) packets to determine the performance of a connection between 2 
 devices, and if that connection exists.
+
+## Lab completed: How to ping?
+[How to ping](Labs Screenshots/pinging.png)
+
+Pinging 8.8.8.8 informs us that we have sent 4 packets, all of which were received at an average of 9.428 seconds.
+### Why does this matter to SOC analysts?
+Helps understand how computers connects
