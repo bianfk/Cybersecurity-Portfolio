@@ -7,6 +7,7 @@
 ## ✅ Key Concepts
 
 - Offensive Security represents the process where you simulate a hacker's actions to find vulnerabilities in a system.
+- Red teams and penetration testers specialize in offensice security.
 
 - What does it involve?
   - breaking into computer systems
