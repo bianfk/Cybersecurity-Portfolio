@@ -1,5 +1,3 @@
-# 🧠 TryHackMe Pre-Security
-
 ## Room Completed: [Room Title]
 
 📅 **Date:** [YYYY-MM-DD]
