@@ -16,10 +16,10 @@ Each chapter includes:
 
 ## 📚 Chapters Completed
 
-- ✅ Chapter 1: Risk Management
-- ✅ Chapter 2: Threat Actors & Intelligence
-- ✅ Chapter 3: Malware Types
-- 🕐 Chapter 4: Vulnerabilities & Scanning _(in progress)_
+- ✅ Chapter 1: Today's Security Professional
+- ✅ Chapter 2: Cybersecurity Threat Landscape
+- ✅ Chapter 3: Malicious Code
+- 🕐 Chapter 4: Social Engineering And Password Attacks  _(in progress)_
 
 ---
 
