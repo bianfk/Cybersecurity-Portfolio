@@ -21,8 +21,10 @@
 
 ## 🧪 Lab Completed: Using dirb To Find Hidden Website Pages
 
-![fake bank](../../assets/fakebank.png)  
-![dirb command](../../assets/dirb.png)
+<p float="left">
+  <img src="../../assets/fakebank.png" width="45%" />
+  <img src="../../assets/dirb.png" width="45%" />
+</p>
 
 🔍 **Observation:**  
 The purpose of this lab was to hack a bank and inflate our bank account balance. Running `dirb http://fakebank.thm` in the terminal
