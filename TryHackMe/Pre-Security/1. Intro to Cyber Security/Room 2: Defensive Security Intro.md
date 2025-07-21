@@ -23,15 +23,20 @@
 
 ## 🧪 Lab Completed: Simulating a SIEM
 
-![siem](../../assets/siem.png)
+<p float="left">
+  <img src="../../assets/siem.png" width="45%" />
+  <img src="../../assets/siem3.png" width="45%" />
+</p>
+
 
 🔍 **Observation:**  
-[Summarize what you saw, did, or confirmed in this lab. Keep it short and clear.]
+An unauthorized connection was detected. I escalated it to the SOC team leader who gave me permission to block the IP address which
+I did in the firewall. 
 
 ---
 
 ## 🛡️ Why This Matters for SOC Analysts
 
-- [Point 1: How this helps identify or respond to threats]
-- [Point 2: What a SOC analyst can do with this knowledge]
-- [Point 3: Real-world value in Blue Team work]
+- Enhances threat detection skills using SIEM tools to identify suspicious activity.
+- Builds experience in escalation and incident response workflows, such as blocking malicious IPs.
+- Reflects real-world SOC duties, including monitoring, triage, and communication within a security team.
