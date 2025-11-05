@@ -19,7 +19,10 @@ Each chapter includes:
 - ✅ Chapter 1: Today's Security Professional
 - ✅ Chapter 2: Cybersecurity Threat Landscape
 - ✅ Chapter 3: Malicious Code
-- 🕐 Chapter 4: Social Engineering And Password Attacks  _(in progress)_
+- ✅ Chapter 4: Social Engineering And Password Attacks
+- ✅ Chapter 5: Security Assessment & Testing
+- ✅ Chapter 6: Application Security
+- ⏰ Chapter 7: Cryptography and the PKI  _(in progress)_
 
 ---
 
