@@ -22,7 +22,19 @@ Each chapter includes:
 - ✅ Chapter 4: Social Engineering And Password Attacks
 - ✅ Chapter 5: Security Assessment & Testing
 - ✅ Chapter 6: Application Security
-- ⏰ Chapter 7: Cryptography and the PKI  _(in progress)_
+- ✅ Chapter 7: Cryptography and the PKI
+- ✅ Chapter 8: Identity and Access Management
+- ✅ Chapter 9: Resilience and Physical Security
+- ✅ Chapter 10: Cloud and Virtualization Security
+- ✅ Chapter 11: Endpoint Security
+- ✅ Chapter 12: Network Security
+- ✅ Chapter 13: Wireless and Mobile Security
+- ✅ Chapter 14: Monitoring and Incident Response
+- ✅ Chapter 15: Digital Forensics
+- ✅ Chapter 16: Security Governance and Compliance
+- ✅ Chapter 17: Risk Management and Privacy
+  
+- 📝 Final Reflection — The Complete Journey (Chapters 1–17)
 
 ---
 
@@ -40,3 +52,4 @@ Studying Security+ allows me to:
 I may include flashcards, diagrams, and cheat sheets as I progress.
 
 🎯 Goal: Take and pass the CompTIA Security+ by end of year 2025.
+- Update: Achieved in July 2026 ✅
