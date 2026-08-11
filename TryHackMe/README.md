@@ -8,8 +8,8 @@ This folder contains my hands-on learning journey through [TryHackMe](https://tr
 
 | Path | Status | Focus |
 |------|--------|-------|
-| Pre-Security | 🕐 In Progress | Core concepts: networking, OS, CLI |
-| Introduction to Cyber Security | 🔜 Planned | Threats, vulnerabilities, risk, attacks |
+| Pre-Security | ✅ Done | Core concepts: networking, OS, CLI |
+| Cyber Security 101 | 🕐 In Progress | Networking, crypto, Windows/Linux/AD, offensive tools, defensive tools, and careers |
 | SOC Level 1 | 🔜 Planned | Real-world SOC workflows, tools, detection |
 | Blue Team | 🔜 Planned | Defense, SIEM, threat hunting, incident response |
 
@@ -56,7 +56,7 @@ TryHackMe provides real-world, **job-ready experience** with:
 
 ## 📍 Progress Tracker
 
-- ✅ Completed Rooms: 4
+- ✅ Completed Learning Paths: 1
 
 ---
 
