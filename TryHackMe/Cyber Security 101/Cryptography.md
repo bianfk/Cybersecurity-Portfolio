@@ -1,11 +1,13 @@
 # Cryptography
 
-
+![Cryptography Module Map](https://github.com/bianfk/Cybersecurity-Portfolio/blob/main/TryHackMe/assets/cryptography.jpg?raw=true)
 
 **Status:** ✅ Completed
 
 ## What I Did
 Completed 6 hands-on rooms covering the fundamentals of cryptography and password cracking.
+
+**Command example of John the Ripper:** ```john --format=raw-md5 --wordlist=/usr/share/wordlists/rockyou.txt hash_to_crack.txt```
 
 ## Key Takeaways (SOC Focus)
 - **Encryption:** Understand the difference between Symmetric and Asymmetric encryption.
