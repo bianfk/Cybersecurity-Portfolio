@@ -1,6 +1,6 @@
 # Cryptography
 
-![Cryptography Module Map](https://github.com/bianfk/Cybersecurity-Portfolio/blob/main/TryHackMe/assets/cryptography.jpg?raw=true)
+![Cryptography Module Map](https://github.com/bianfk/Cybersecurity-Portfolio/blob/main/TryHackMe/assets/THM/Cyber%20Security%20101/cryptography.jpg?raw=true)
 - [Cryptography Basics](https://tryhackme.com/room/cryptographybasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68732000650a30c56e43c983)
 - [Public Key Cryptography Basics](https://tryhackme.com/room/publickeycrypto?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68732000650a30c56e43c983)
 - [Hashing Basics](https://tryhackme.com/room/hashingbasics?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68732000650a30c56e43c983)
